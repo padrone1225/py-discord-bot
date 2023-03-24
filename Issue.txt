@@ -1,0 +1,4 @@
+How to get Discord goup members name?
+
+First, enable "Member intent. Open discord developer portal and toggle up the member intent.
+Second, discord intent member True.
